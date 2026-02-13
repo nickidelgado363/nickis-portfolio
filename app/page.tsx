@@ -127,9 +127,9 @@ export default function Home() {
             <ProjectCard
               title="Shared AI Repository Tool"
               tags={["Competitive Analysis", "Market Sizing", "Positioning"]}
-              description="Short summary of the problem, what you built/analyzed, and the result/impact."
-              linkText="View Project"
-              href="#"
+              description="Conducted a multi-week technical evaluation of Predis.AI, engineering the platform through structured prompt testing, Business vs. Ecommerce workflow comparisons, CSV product uploads, and URL-based extraction analysis . I intentionally stress-tested and “broke” the system to identify failure modes including hallucinated visuals, poor design hierarchy, integration limits, and brand safety risks. My failure analysis was recognized by my professor as the strongest in the class for depth and clarity. Through this project, I strengthened skills in AI prompt engineering, systems testing, failure mode analysis, platform troubleshooting, and translating generative AI performance into concrete business and risk insights."
+              linkText="View Presentation"
+              href="https://drive.google.com/file/d/1xSnoN1B35uPi2Koa-BzHHU0y7y9DN5Mr/view?usp=sharing"
             />
             <ProjectCard
               title="Bank Churner Data Set Analysis"
@@ -141,17 +141,17 @@ export default function Home() {
             <ProjectCard
               title="Folica"
               tags={["Leadership", "Teams", "Execution"]}
-              description="Short summary of the problem, what you built/analyzed, and the result/impact."
-              linkText="View Project"
+              description="Folica is a B2B retail technology concept designed to improve the in-store hair-care shopping experience at retailers like Ulta and Target. As part of a four-person team, we conducted customer research, competitive analysis, and market modeling to validate the opportunity and design a Technology-as-a-Service business model. I led the front-end development and built a fully interactive website prototype using HTML, CSS, and JavaScript, simulating a tablet-based AI hair analysis booth. The prototype included a consent flow, camera-based scan simulation, AI-driven results, and personalized in-store product recommendations. This project demonstrates my ability to translate strategy and research into a functional, user-centered product experience."
+              linkText="View Folica Prototype"
               href="https://folica.vercel.app"
 
             />
             <ProjectCard
-              title="Bank Churner Data Set Analysis"
-              tags={["Data", "Experimentation", "Storytelling"]}
-              description="Short summary of the problem, what you built/analyzed, and the result/impact."
-              linkText="View Data"
-              href="#"
+              title="Venture Validator"
+              tags={["System's Thinking", "Experimentation", "AI-Product trategy"]}
+              description="Developed a Lean PRD App, an AI-powered web application built in Google AI Studio that helps early-stage entrepreneurs evaluate and refine venture ideas using a structured, VC-style framework . Working on a five-person team, I led the application build—designing the prompt architecture, engineering the structured JSON schema pipeline, implementing frontend state management, and developing the dynamic dashboard (Lean PRD, SWOT, GTM, and viability scoring visualizations). A teammate supported deployment and hosting, while I focused on core product functionality and AI integration. This project strengthened my skills in prompt engineering, API integration, full-stack prototyping, structured output validation, UX workflow design, and AI product strategy. It also required assessing model hallucination, scalability limits, and data privacy risks, reinforcing my ability to critically evaluate AI systems before deployment."
+              linkText="View App Example"
+              href="https://drive.google.com/file/d/1CLSRG_INXfIvFQX1pWGxuPwTHRV9YfD_/view?usp=sharing"
             />
             <ProjectCard
               title="Folica"

@@ -12,10 +12,10 @@
 @media (prefers-color-scheme: dark) {
   :root {
     /* Dark Mode */
-    --background: #1a1c19;
-    --foreground: #e2e8e4;
-    --primary: #7c4f3c70;
-    --secondary: #8da391;
+    --background: #2a2b29;
+    --foreground: #e2edeceb;
+    --primary: #d7c5bde1;
+    --secondary: #234530d5;
   }
 }
 
