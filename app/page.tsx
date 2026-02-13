@@ -170,24 +170,26 @@ export default function Home() {
 
           <div className="mt-6 grid gap-4">
             <ExperienceCard
-              role="Startup — Competitive Market Analysis"
-              org="(Add startup name)"
-              dates="(Add dates)"
+              role="Competitive Market Analysis"
+              org="KneeVoice INC. — (Graduate Consulting Project)"
+              dates="January 2026 – June 2026"
               bullets={[
-                "Conducted competitive landscape research to identify positioning opportunities and differentiation angles.",
-                "Synthesized customer/audience insights into clear recommendations for strategy and messaging.",
-                "Collaborated cross-functionally to translate research into actionable next steps.",
+                "Led competitive and market landscape research to clarify positioning, customer segments, and differentiation opportunities.",
+    "Synthesized insights into concise recommendations (messaging pillars, target audiences, and go-to-market priorities) for decision-makers.",
+    "Converted ambiguous inputs into structured next steps—strengthening skills in strategic thinking, prioritization, and stakeholder communication.",
+    "Collaborated cross-functionally to align research outputs with real business constraints and execution timelines.",
               ]}
             />
 
             <ExperienceCard
               role="Bartender & Cocktail Waitress"
               org="The Red Piano — Santa Barbara"
-              dates="Apr 2025 – Present"
+              dates="April 2025 – Present"
               bullets={[
-                "Processed cover charges and managed cash/credit transactions with accuracy; supported accountability for weekly revenues (approx. $2k–$5.5k).",
-                "Recommended and upsold specialty cocktails/premium beverages; contributed to improved revenue performance.",
-                "Coordinated with bartenders/hosts/servers to maintain smooth service flow during peak hours.",
+               "Operate in a fast-paced, high-volume service environment where speed, accuracy, and customer experience directly impact revenue.",
+    "Manage end-to-end transactions and nightly cash/credit accountability while maintaining consistent service quality under pressure.",
+    "Use customer cues and product knowledge to recommend premium options—building practical persuasion and conversion skills.",
+    "Coordinate continuously with bartenders/hosts/servers to maintain smooth workflow during peak hours (real-time ops + teamwork).",
               ]}
             />
 
@@ -196,8 +198,10 @@ export default function Home() {
               org="Kait Hamilton State Farm Agency — Santa Barbara"
               dates="Jan 2023 – Oct 2023"
               bullets={[
-                "Provided customer service on policy questions (coverage, changes, transfers, claims, billing).",
-                "Built relationships and followed up routinely; supported retention improvements over a quarterly period.",
+                "Supported customer lifecycle needs across coverage questions, claims support, billing, and policy changes in a regulated environment.",
+    "Built trust through clear communication and follow-through—strengthening retention-focused thinking and client relationship skills.",
+    "Maintained accurate documentation and handled sensitive information with care, reinforcing operational rigor and professionalism.",
+    "Improved responsiveness by managing routine follow-ups and prioritizing requests efficiently.",
               ]}
             />
           </div>
