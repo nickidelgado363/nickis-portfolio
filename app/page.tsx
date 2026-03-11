@@ -8,11 +8,10 @@ const resumeUrl = "/Resume(MTM)1-Nicki.Delgado.pdf";
 export default function Home() {
   return (
     <div className="relative bg-background text-foreground transition-colors duration-300">
-      {/* Hero Header with ScrollExpandMedia */}
       <ScrollExpandMedia
         mediaType="image"
-        mediaSrc="/nicki-sb.jpg"
-        bgImageSrc="/nick-bg-2.jpg"
+        mediaSrc="/nicki-sb.JPG"
+        bgImageSrc="/nick-bg-2.JPG"
         title="Nicki Delgado"
         date="Technology Management Graduate Student"
         scrollToExpand="Scroll to Explore"
